@@ -27,7 +27,7 @@
                 </tr>
             </thead>
             <tbody>
-                <tr class="place" ng-repeat="place in places | or:query | filter:vegetarian_only ? {vegetarian:true} : {}">
+                <tr class="place" ng-repeat="place in places | orderBy:'name' | or:query | filter:vegetarian_only ? {vegetarian:true} : {}">
                     <td>
                       <div class="name">{{ place.name }}</div>
                         <ul class="links">
