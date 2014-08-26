@@ -182,5 +182,13 @@
     "sit_down": false,
     "vegetarian": true,
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/the-hummus-and-pita-co-new-york"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/The+Hummus+%26+Pita+Co./@40.739148,-73.995807,17z"}}
+  },
+  {
+    "name": "Coffee Shop",
+    "categories": ["Diner"],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/coffee-shop-new-york-2"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Coffee+Shop/@40.7364999,-73.9909509,18z"}}
   }
 ]
