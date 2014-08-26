@@ -1,0 +1,186 @@
+[
+  {
+    "name": "BXL Zoute",
+    "categories": ["Belgian"],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/bxl-zoute-new-york"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/BXL+Zoute/@40.741778,-73.992586,17z"}}
+  },
+  {
+    "name": "Jackson Diner",
+    "categories": ["Indian"],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/jackson-diner-new-york"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Jackson+Diner+-+University+Place/@40.733222,-73.993629,17z/data=!3m1!4b1!4m2!3m1!1s0x89c25999c3f9a917:0x3ff627f0dafa1a41"}}
+  },
+  {
+    "name": "El Cantinero",
+    "categories": ["Mexican"],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/el-cantinero-new-york"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/El+Cantinero/@40.733662,-73.993296,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x52bb2265d9e9343f"}}
+  },
+  {
+    "name": "Eataly",
+    "categories": ["Italian"],
+    "take_out": false,
+    "sit_down": false,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/eataly-nyc-new-york-2"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Eataly+Restaurants/@40.742045,-73.989487,19z"}}
+  },
+  {
+    "name": "Rafiqi's",
+    "categories": ["Food Stands", "Middle Eastern", "Halal Food Cart"],
+    "take_out": true,
+    "sit_down": false,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/rafiqis-delicious-food-new-york-5"}}
+  },
+  {
+    "name": "Republic",
+    "categories": ["Asian Fusion (Noodles)"],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/republic-new-york"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Republic/@40.736941,-73.990703,17z/data=!3m1!4b1!4m5!1m2!2m1!1sRepublic!3m1!1s0x0:0x4cf4bf7033cc7328"}}
+  },
+  {
+    "name": "NY Burger Co.",
+    "categories": ["Hamburgers"],
+    "take_out": true,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/new-york-burger-co-new-york-120"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/New+York+Burger+Co./@40.741662,-73.993366,18z/data=!3m1!4b1!4m2!3m1!1s0x89c259a35f737d35:0x9a812bd4459e148c"}}
+  },
+  {
+    "name": "Clarke’s Standard",
+    "categories": ["Hamburgers"],
+    "take_out": true,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/clarkes-standard-new-york-4"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Clarke's+Standard/@40.737525,-73.989945,17z/data=!3m1!4b1!4m5!1m2!2m1!1sClarke%E2%80%99s+Standard!3m1!1s0x89c259a215faddcb:0xf7f1de65316f1ec6"}}
+  },
+  {
+    "name": "Umami Burger",
+    "categories": ["Hamburgers"],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/umami-burger-new-york"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Umami+Burger/@40.734502,-73.998588,17z"}}
+  },
+  {
+    "name": "Lenny's",
+    "categories": ["Sandwiches"],
+    "take_out": true,
+    "sit_down": false,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/lennys-new-york-4"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Lenny's/@40.741699,-73.990382,18z/data=!3m1!4b1!4m2!3m1!1s0x89c259a47497644f:0xf8fe47d965e6c63c"}}
+  },
+  {
+    "name": "Food Depot",
+    "categories": ["Deli"],
+    "take_out": true,
+    "sit_down": false,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/food-depot-new-york"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Food+Depot/@40.739078,-73.991873,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x998b6da5d6b4f930"}}
+  },
+  {
+    "name": "Go! Go! Curry!",
+    "categories": ["Japanese"],
+    "take_out": true,
+    "sit_down": false,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/go-go-curry-new-york-8"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Go!+Go!+Curry/@40.7426746,-73.9977209,16z/data=!4m7!1m4!3m3!1s0x89c259acee2f8257:0xbb0a2c99223b5fa9!2sGo*21+Go*21+CURRY*21,+273+W+38th+St,+New+York,+NY+10018!3b1!3m1!1s0x0:0x44937886ad97704"}}
+  },
+  {
+    "name": "Shady Dawg",
+    "categories": ["Food Truck"],
+    "take_out": true,
+    "sit_down": false,
+    "vegetarian": false,
+    "links": {"facebook": {"label": "Facebook", "url": "https://www.facebook.com/shadydawgnyc"}, "twitter": {"label": "Twitter", "url": "https://twitter.com/ShadyDawgNYC"}}
+  },
+  {
+    "name": "Sophie’s Cuban Cuisine",
+    "categories": ["Cuban"],
+    "take_out": true,
+    "sit_down": false,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/sophies-cuban-cuisine-new-york-4"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Sophie's+Cuban+Cuisine/@40.740588,-73.987766,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x3c546472541b63fc"}}
+  },
+  {
+    "name": "Malibu Diner",
+    "categories": ["Diner"],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/malibu-diner-new-york"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Malibu+Diner/@40.744091,-73.994876,17z"}}
+  },
+  {
+    "name": "Grimaldi's",
+    "categories": ["Pizza"],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/grimaldis-new-york-4"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/search/Grimaldi's/@40.7415114,-73.993417,16z"}}
+  },
+  {
+    "name": "Sunac",
+    "categories": ["Deli"],
+    "take_out": true,
+    "sit_down": false,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/sunac-natural-foods-new-york"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Sunac+Natural+Food+Market/@40.739088,-73.9924698,19z/data=!4m5!1m2!3m1!2sSunac+Natural+Food+Market!3m1!1s0x0:0x929b35d5a880686a"}}
+  },
+  {
+    "name": "Hill Country Chicken",
+    "categories": ["Fried Chicken"],
+    "take_out": true,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/hill-country-chicken-new-york"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Hill+Country+Chicken/@40.743303,-73.989454,17z"}}
+  },
+  {
+    "name": "Lillie’s Victorian Bar & Restaurant",
+    "categories": ["Pub"],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/lillies-victorian-bar-and-restaurant-new-york"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Lillie's+Victorian+Establishment,+13+E+17th+St,+New+York,+NY+10003/@40.737387,-73.99101,14z/data=!4m2!3m1!1s0x89c259a267fae81d:0xd7e8d287e4c1f2aa"}}
+  },
+  {
+    "name": "Potbelly Sandwich Shop",
+    "categories": ["Sandwiches"],
+    "take_out": true,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/potbelly-sandwich-shop-new-york-4"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Potbelly+Sandwich+Shop,+22+E+17th+St,+New+York,+NY+10003/@40.737387,-73.99101,17z/data=!4m2!3m1!1s0x89c259a26f1aa525:0xa789de856063064f"}}
+  },
+  {
+    "name": "Dos Toros Taqueria",
+    "categories": ["Mexican"],
+    "take_out": true,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/dos-toros-taqueria-new-york"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Dos+Toros+Taqueria/@40.733664,-73.98967,17z"}}
+  },
+  {
+    "name": "Old Town Bar & Restaurant",
+    "categories": ["Pub"],
+    "take_out": false,
+    "sit_down": true,
+    "vegetarian": false,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/old-town-bar-and-restaurant-new-york"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Old+Town+Bar,+45+E+18th+St,+New+York,+NY+10003/@40.73761,-73.98916,17z"}}
+  },
+  {
+    "name": "The Hummus & Pita Co.",
+    "categories": ["Mediterranean", "Middle Eastern", "Vegetarian"],
+    "take_out": true,
+    "sit_down": false,
+    "vegetarian": true,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/the-hummus-and-pita-co-new-york"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/The+Hummus+%26+Pita+Co./@40.739148,-73.995807,17z"}}
+  }
+]

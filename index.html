@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="lunchLister">
+<head>
+    <meta charset="UTF-8">
+    <title>Favorite Lunch Places</title>
+    <link rel="stylesheet" href="https://cdn.rawgit.com/FortAwesome/Font-Awesome/4.2.0-wip/css/font-awesome.css">
+    <link rel="stylesheet" href="main.css">
+</head>
+<body ng-controller="LunchListerCtrl">
+    <div class="page-wrap">
+        <div class="controls">
+            <fieldset>
+                <label><input type="checkbox" ng-model="query.take_out">Take Out</label>
+                <label><input type="checkbox" ng-model="query.sit_down">Sit Down</label>
+            </fieldset>
+
+            <fieldset>
+                <label><input type="checkbox" ng-model="vegetarian_only">Vegetarian only</label>
+            </fieldset>
+        </div>
+
+        <table class="places">
+            <thead>
+                <tr>
+                    <th>Place</th> <th>Categories</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="place" ng-repeat="place in places | or:query | filter:vegetarian_only ? {vegetarian:true} : {}">
+                    <td>
+                      <div class="name">{{ place.name }}</div>
+                        <ul class="links">
+                            <li ng-repeat="(key, link) in place.links" ng-class="key">
+                              <a ng-href="{{ link.url }}" title="View {{ place.name }} on {{ link.label }}" target="_blank">
+                                <i class="fa fa-{{ getIcon(key) }}"></i>
+                                <span class="sr-only">{{ link.label }}</span>
+                              </a>
+                            </li>
+                        </ul>
+                    </td>
+                    <td class="categories">{{ place.categories.join(', ') }}</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.23/angular.min.js"></script>
+    <script type="text/JavaScript" src="app.js"></script>
+</body>
+</html>
+<!--
+                       88
+                       88
+                       88
+                       88   ,adPPYba,    ,adPPYba,
+                       88  a8"     "8a  a8P_____88
+                       88  8b       d8  8PP"""""""
+       db      88,   ,d88  "8a,   ,a8"  "8b,   ,aa    88
+      d88b      "Y8888P"    `"YbbdP"'    `"Ybbd8"'    88
+     d8'`8b                                           88
+    d8'  `8b      8b,dPPYba,   888888888  ,adPPYYba,  88   ,adPPYba,   8b,dPPYba,    ,adPPYba,
+   d8YaaaaY8b     88P'   `"8a       a8P"  ""     `Y8  88  a8"     "8a  88P'   `"8a  a8P_____88
+  d8""""""""8b    88       88    ,d8P'    ,adPPPPP88  88  8b       d8  88       88  8PP"""""""
+ d8'        `8b   88       88  ,d8"       88,    ,88  88  "8a,   ,a8"  88       88  "8b,   ,aa
+d8'          `8b  88       88  888888888  `"8bbdP"Y8  88   `"YbbdP"'   88       88   `"Ybbd8"'
+
+This has been a JoeAnzalone.com Production -->
