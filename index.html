@@ -11,6 +11,12 @@
     <div class="page-wrap">
         <div class="controls">
             <fieldset>
+                <label><input type="checkbox" ng-model="meals.breakfast">Breakfast</label>
+                <label><input type="checkbox" ng-model="meals.lunch">Lunch</label>
+                <label><input type="checkbox" ng-model="meals.drinks">Drinks</label>
+            </fieldset>
+
+            <fieldset>
                 <label><input type="checkbox" ng-model="query.take_out">Take Out</label>
                 <label><input type="checkbox" ng-model="query.sit_down">Sit Down</label>
             </fieldset>
@@ -27,7 +33,7 @@
                 </tr>
             </thead>
             <tbody>
-                <tr class="place" ng-repeat="place in places | orderBy:'name' | or:query | filter:vegetarian_only ? {vegetarian:true} : {}">
+                <tr class="place" ng-repeat="place in places | orderBy:'name' | or:query | contains:meals:'meals' | filter:vegetarian_only ? {vegetarian:true} : {}">
                     <td>
                       <div class="name">{{ place.name }}</div>
                         <ul class="links">

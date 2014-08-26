@@ -7,6 +7,12 @@ angular.module('lunchLister', [])
         "sit_down": true
     };
 
+    $scope.meals = {
+        "breakfast": true,
+        "lunch": true,
+        "drinks": true
+    };
+
     $scope.vegetarian_only = false;
 
     $scope.getIcon = function(key){
@@ -30,6 +36,22 @@ angular.module('lunchLister', [])
         angular.forEach(items, function(item){
             for (prop in query) {
                 if (item[prop] && query[prop]) {
+                    return filteredItems.push(item);
+                }
+            };
+        });
+
+        return filteredItems;
+    };
+})
+
+.filter('contains', function(){
+
+    return function(items, query, property) {
+        var filteredItems = [];
+        angular.forEach(items, function(item){
+            for (prop in query) {
+                if (query[prop] && item[property].indexOf(prop) > -1) {
                     return filteredItems.push(item);
                 }
             };

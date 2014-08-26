@@ -1,6 +1,7 @@
 [
   {
     "name": "BXL Zoute",
+    "meals": ["lunch", "drinks"],
     "categories": ["Belgian"],
     "take_out": false,
     "sit_down": true,
@@ -9,6 +10,7 @@
   },
   {
     "name": "Jackson Diner",
+    "meals": ["lunch"],
     "categories": ["Indian"],
     "take_out": false,
     "sit_down": true,
@@ -17,6 +19,7 @@
   },
   {
     "name": "El Cantinero",
+    "meals": ["lunch", "drinks"],
     "categories": ["Mexican"],
     "take_out": false,
     "sit_down": true,
@@ -25,6 +28,7 @@
   },
   {
     "name": "Eataly",
+    "meals": ["lunch"],
     "categories": ["Italian"],
     "take_out": false,
     "sit_down": false,
@@ -33,6 +37,7 @@
   },
   {
     "name": "Rafiqi's",
+    "meals": ["lunch"],
     "categories": ["Food Stands", "Middle Eastern", "Halal Food Cart"],
     "take_out": true,
     "sit_down": false,
@@ -41,6 +46,7 @@
   },
   {
     "name": "Republic",
+    "meals": ["lunch"],
     "categories": ["Asian Fusion (Noodles)"],
     "take_out": false,
     "sit_down": true,
@@ -49,6 +55,7 @@
   },
   {
     "name": "NY Burger Co.",
+    "meals": ["lunch"],
     "categories": ["Hamburgers"],
     "take_out": true,
     "sit_down": true,
@@ -57,6 +64,7 @@
   },
   {
     "name": "Clarke’s Standard",
+    "meals": ["lunch"],
     "categories": ["Hamburgers"],
     "take_out": true,
     "sit_down": true,
@@ -65,6 +73,7 @@
   },
   {
     "name": "Umami Burger",
+    "meals": ["lunch"],
     "categories": ["Hamburgers"],
     "take_out": false,
     "sit_down": true,
@@ -73,6 +82,7 @@
   },
   {
     "name": "Lenny's",
+    "meals": ["lunch"],
     "categories": ["Sandwiches"],
     "take_out": true,
     "sit_down": false,
@@ -81,6 +91,7 @@
   },
   {
     "name": "Food Depot",
+    "meals": ["breakfast", "lunch"],
     "categories": ["Deli"],
     "take_out": true,
     "sit_down": false,
@@ -89,6 +100,7 @@
   },
   {
     "name": "Go! Go! Curry!",
+    "meals": ["lunch"],
     "categories": ["Japanese"],
     "take_out": true,
     "sit_down": false,
@@ -97,6 +109,7 @@
   },
   {
     "name": "Shady Dawg",
+    "meals": ["lunch"],
     "categories": ["Food Truck"],
     "take_out": true,
     "sit_down": false,
@@ -105,6 +118,7 @@
   },
   {
     "name": "Sophie’s Cuban Cuisine",
+    "meals": ["lunch"],
     "categories": ["Cuban"],
     "take_out": true,
     "sit_down": false,
@@ -113,6 +127,7 @@
   },
   {
     "name": "Malibu Diner",
+    "meals": ["lunch"],
     "categories": ["Diner"],
     "take_out": false,
     "sit_down": true,
@@ -121,6 +136,7 @@
   },
   {
     "name": "Grimaldi's",
+    "meals": ["lunch"],
     "categories": ["Pizza"],
     "take_out": false,
     "sit_down": true,
@@ -129,6 +145,7 @@
   },
   {
     "name": "Sunac",
+    "meals": ["breakfast", "lunch"],
     "categories": ["Deli"],
     "take_out": true,
     "sit_down": false,
@@ -137,6 +154,7 @@
   },
   {
     "name": "Hill Country Chicken",
+    "meals": ["lunch"],
     "categories": ["Fried Chicken"],
     "take_out": true,
     "sit_down": true,
@@ -145,6 +163,7 @@
   },
   {
     "name": "Lillie’s Victorian Bar & Restaurant",
+    "meals": ["lunch", "drinks"],
     "categories": ["Pub"],
     "take_out": false,
     "sit_down": true,
@@ -153,6 +172,7 @@
   },
   {
     "name": "Potbelly Sandwich Shop",
+    "meals": ["lunch"],
     "categories": ["Sandwiches"],
     "take_out": true,
     "sit_down": true,
@@ -161,6 +181,7 @@
   },
   {
     "name": "Dos Toros Taqueria",
+    "meals": ["lunch"],
     "categories": ["Mexican"],
     "take_out": true,
     "sit_down": true,
@@ -169,6 +190,7 @@
   },
   {
     "name": "Old Town Bar & Restaurant",
+    "meals": ["lunch", "drinks"],
     "categories": ["Pub"],
     "take_out": false,
     "sit_down": true,
@@ -177,6 +199,7 @@
   },
   {
     "name": "The Hummus & Pita Co.",
+    "meals": ["lunch"],
     "categories": ["Mediterranean", "Middle Eastern", "Vegetarian"],
     "take_out": true,
     "sit_down": false,
@@ -185,6 +208,7 @@
   },
   {
     "name": "Coffee Shop",
+    "meals": ["lunch", "drinks"],
     "categories": ["Diner"],
     "take_out": false,
     "sit_down": true,
