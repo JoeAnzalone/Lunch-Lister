@@ -12,7 +12,7 @@
     "categories": ["Indian"],
     "take_out": false,
     "sit_down": true,
-    "vegetarian": false,
+    "vegetarian": true,
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/jackson-diner-new-york"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Jackson+Diner+-+University+Place/@40.733222,-73.993629,17z/data=!3m1!4b1!4m2!3m1!1s0x89c25999c3f9a917:0x3ff627f0dafa1a41"}}
   },
   {
@@ -36,7 +36,7 @@
     "categories": ["Food Stands", "Middle Eastern", "Halal Food Cart"],
     "take_out": true,
     "sit_down": false,
-    "vegetarian": false,
+    "vegetarian": true,
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/rafiqis-delicious-food-new-york-5"}}
   },
   {
@@ -76,7 +76,7 @@
     "categories": ["Sandwiches"],
     "take_out": true,
     "sit_down": false,
-    "vegetarian": false,
+    "vegetarian": true,
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/lennys-new-york-4"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Lenny's/@40.741699,-73.990382,18z/data=!3m1!4b1!4m2!3m1!1s0x89c259a47497644f:0xf8fe47d965e6c63c"}}
   },
   {
@@ -132,7 +132,7 @@
     "categories": ["Deli"],
     "take_out": true,
     "sit_down": false,
-    "vegetarian": false,
+    "vegetarian": true,
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/sunac-natural-foods-new-york"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Sunac+Natural+Food+Market/@40.739088,-73.9924698,19z/data=!4m5!1m2!3m1!2sSunac+Natural+Food+Market!3m1!1s0x0:0x929b35d5a880686a"}}
   },
   {
@@ -148,7 +148,7 @@
     "categories": ["Pub"],
     "take_out": false,
     "sit_down": true,
-    "vegetarian": false,
+    "vegetarian": true,
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/lillies-victorian-bar-and-restaurant-new-york"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Lillie's+Victorian+Establishment,+13+E+17th+St,+New+York,+NY+10003/@40.737387,-73.99101,14z/data=!4m2!3m1!1s0x89c259a267fae81d:0xd7e8d287e4c1f2aa"}}
   },
   {
@@ -156,7 +156,7 @@
     "categories": ["Sandwiches"],
     "take_out": true,
     "sit_down": true,
-    "vegetarian": false,
+    "vegetarian": true,
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/potbelly-sandwich-shop-new-york-4"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Potbelly+Sandwich+Shop,+22+E+17th+St,+New+York,+NY+10003/@40.737387,-73.99101,17z/data=!4m2!3m1!1s0x89c259a26f1aa525:0xa789de856063064f"}}
   },
   {
