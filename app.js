@@ -8,9 +8,9 @@ angular.module('lunchLister', [])
     };
 
     $scope.meals = {
-        "breakfast": true,
+        "breakfast": false,
         "lunch": true,
-        "drinks": true
+        "drinks": false
     };
 
     $scope.vegetarian_only = false;
