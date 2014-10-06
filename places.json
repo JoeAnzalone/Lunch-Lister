@@ -223,5 +223,14 @@
     "sit_down": true,
     "vegetarian": false,
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/flatiron-hall-new-york"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Flatiron+Hall/@40.744282,-73.990752,17z"}}
+  },
+  {
+    "name": "Maoz Vegetarian",
+    "meals": ["lunch"],
+    "categories": ["Mediterranean", "Middle Eastern", "Vegetarian"],
+    "take_out": true,
+    "sit_down": false,
+    "vegetarian": true,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/maoz-vegetarian-new-york-9"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Maoz+Vegetarian/@40.736142,-73.989084,15z/data=!4m2!3m1!1s0x0:0xe36bb0aec271cc3a"}}
   }
 ]
