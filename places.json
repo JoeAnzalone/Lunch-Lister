@@ -232,5 +232,14 @@
     "sit_down": false,
     "vegetarian": true,
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/maoz-vegetarian-new-york-9"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Maoz+Vegetarian/@40.736142,-73.989084,15z/data=!4m2!3m1!1s0x0:0xe36bb0aec271cc3a"}}
+  },
+  {
+    "name": "Beecher’s Handmade Cheese",
+    "meals": ["lunch", "drinks"],
+    "categories": ["Cheese", "Soups", "Sandwiches"],
+    "take_out": true,
+    "sit_down": true,
+    "vegetarian": true,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/beechers-handmade-cheese-new-york"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Beecher's+Handmade+Cheese/@40.738916,-73.989607,15z"}}
   }
 ]
