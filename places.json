@@ -63,15 +63,6 @@
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/new-york-burger-co-new-york-120"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/New+York+Burger+Co./@40.741662,-73.993366,18z/data=!3m1!4b1!4m2!3m1!1s0x89c259a35f737d35:0x9a812bd4459e148c"}}
   },
   {
-    "name": "Clarke’s Standard",
-    "meals": ["lunch"],
-    "categories": ["Hamburgers"],
-    "take_out": true,
-    "sit_down": true,
-    "vegetarian": false,
-    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/clarkes-standard-new-york-4"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Clarke's+Standard/@40.737525,-73.989945,17z/data=!3m1!4b1!4m5!1m2!2m1!1sClarke%E2%80%99s+Standard!3m1!1s0x89c259a215faddcb:0xf7f1de65316f1ec6"}}
-  },
-  {
     "name": "Umami Burger",
     "meals": ["lunch"],
     "categories": ["Hamburgers"],
