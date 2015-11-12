@@ -232,5 +232,14 @@
     "sit_down": true,
     "vegetarian": true,
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/dig-inn-seasonal-market-new-york-2"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Dig+Inn+Seasonal+Market/@40.7373008,-73.9909179,18z/data=!4m2!3m1!1s0x0000000000000000:0xaa0b66f1334249d3"}}
+  },
+  {
+    "name": "Maison Kayser",
+    "meals": ["lunch"],
+    "categories": ["Sandwiches"],
+    "take_out": true,
+    "sit_down": true,
+    "vegetarian": true,
+    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/maison-kayser-new-york-2"}, "google_maps": { "label": "Google Maps", "url": "https://www.google.com/maps/place/Maison+Kayser+Flatiron/@40.7401366,-73.9920029,17z/data=!3m1!4b1!4m2!3m1!1s0x89c259a3dd35deb1:0x4823c945508ca3ba"}}
   }
 ]
