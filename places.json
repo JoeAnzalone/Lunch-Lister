@@ -81,15 +81,6 @@
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/lennys-new-york-4"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Lenny's/@40.741699,-73.990382,18z/data=!3m1!4b1!4m2!3m1!1s0x89c259a47497644f:0xf8fe47d965e6c63c"}}
   },
   {
-    "name": "Food Depot",
-    "meals": ["breakfast", "lunch"],
-    "categories": ["Deli"],
-    "take_out": true,
-    "sit_down": false,
-    "vegetarian": false,
-    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/food-depot-new-york"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Food+Depot/@40.739078,-73.991873,17z/data=!3m1!4b1!4m2!3m1!1s0x0:0x998b6da5d6b4f930"}}
-  },
-  {
     "name": "Go! Go! Curry!",
     "meals": ["lunch"],
     "categories": ["Japanese"],
