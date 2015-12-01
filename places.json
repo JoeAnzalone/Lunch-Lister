@@ -9,15 +9,6 @@
     "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/bxl-zoute-new-york"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/BXL+Zoute/@40.741778,-73.992586,17z"}}
   },
   {
-    "name": "Jackson Diner",
-    "meals": ["lunch"],
-    "categories": ["Indian"],
-    "take_out": false,
-    "sit_down": true,
-    "vegetarian": true,
-    "links": {"yelp": {"label": "Yelp", "url": "http://www.yelp.com/biz/jackson-diner-new-york"}, "google_maps": {"label": "Google Maps", "url": "https://www.google.com/maps/place/Jackson+Diner+-+University+Place/@40.733222,-73.993629,17z/data=!3m1!4b1!4m2!3m1!1s0x89c25999c3f9a917:0x3ff627f0dafa1a41"}}
-  },
-  {
     "name": "El Cantinero",
     "meals": ["lunch", "drinks"],
     "categories": ["Mexican"],
